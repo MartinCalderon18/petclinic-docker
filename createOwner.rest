@@ -1,0 +1,2 @@
+POST https://mundosepetclinic.azurewebsites.net/owners/new?firstName=Martin10&lastName=Calderon10&address=direccion10&city=ciudad10&telephone=1010101010 HTTP/1.1
+content-type: text/html
